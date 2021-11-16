@@ -1,3 +1,4 @@
+[![Azure Python 3.5](https://github.com/paulLaxon/github-actions-demo/actions/workflows/main.yml/badge.svg)](https://github.com/paulLaxon/github-actions-demo/actions/workflows/main.yml)
 [![AWS 3.6.12](https://github.com/paulLaxon/github-actions-demo/actions/workflows/aws.yml/badge.svg)](https://github.com/paulLaxon/github-actions-demo/actions/workflows/aws.yml)
 
 # github-actions-demo
